@@ -4,6 +4,12 @@ A modern, privacy-focused web app to analyze your Amazon order history. Upload y
 
 > 🔒 **100% Local & Private** — This app runs entirely in your browser. Your data is never uploaded to any server. Everything stays on your machine.
 
+## 🚀 Try It Now
+
+**[Launch App →](https://plutocyw.github.io/amazon-spend-analysis/)**
+
+Even when using the hosted version, all data processing happens locally in your browser. Your CSV file is never sent to any server.
+
 ## Features
 
 - 📊 **Interactive Charts**: Bar charts for spending over time, breakdown by category/payment method
