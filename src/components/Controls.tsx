@@ -72,7 +72,7 @@ export const Controls: React.FC<ControlsProps> = ({ filterState, setFilterState 
                         <Calendar size={20} />
                         <span className="font-bold">Date Range</span>
                     </div>
-                    <div className="flex gap-2">
+                    <div className="flex gap-2 items-center">
                         <input
                             type="date"
                             className="glass-input"
