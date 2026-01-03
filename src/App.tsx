@@ -23,7 +23,7 @@ function App() {
 
   return (
     <div className="container">
-      <header className="flex flex-col md:flex-row justify-between items-center mb-8 gap-4">
+      <header className="flex flex-col md:flex-row justify-between items-center mb-10 gap-4">
         <h1 style={{
           fontSize: '2rem',
           fontWeight: '800',
